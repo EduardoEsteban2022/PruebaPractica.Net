@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NombreDelSistema="Sistema1">
+      <Localizacion>Guatemala</Localizacion>
+      <Cliente>
+          <NumeroTarjeta>000001111</NumeroTarjeta>
+          <IdCliente>444445</IdCliente>
+          <Nombre>Juan Luiz</Nombre>
+          <Apellidos>Perez Lopez</Apellidos>
+      </Cliente>  
+</NombreDelSistema>
